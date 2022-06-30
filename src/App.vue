@@ -4,6 +4,7 @@
     src="./assets/logo.png"
   />
   <HelloWorld msg="Welcome to Your Vue.js + TypeScript App" />
+  <div>12355</div>
 </template>
 
 <script lang="ts">
@@ -12,6 +13,7 @@ import HelloWorld from './components/HelloWorld.vue'
 
 export default defineComponent({
   name: 'App',
+
   components: {
     HelloWorld
   }
