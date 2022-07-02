@@ -6,4 +6,9 @@
 export default {}
 </script>
 
-<style lang="scss" scoped></style>
+<style lang="scss" scoped>
+.head {
+  width: 100px;
+  height: 100%;
+}
+</style>
